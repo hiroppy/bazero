@@ -9,10 +9,10 @@ $ npm i -g bazero
 $ bazero
 ```
 
-bazero uses Babel7.
-Input directory is `src`.
-Output directory is `dist`.
-Default presets are `@babel/preset-env`, `@babel/preset-react` and `@babel/preset-flow`.
+bazero uses Babel7.  
+Input directory is `src`.  
+Output directory is `dist`.  
+Default presets are `@babel/preset-env`, `@babel/preset-react` and `@babel/preset-flow`.  
 
 [![NPM][npm-image]][npm-url]
 ![license][license-image]
